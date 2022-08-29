@@ -1,0 +1,6 @@
+A = input('Digite um valor que sera atribuido a A:\n')
+B = input('Digite um valor que sera atribuido a B:\n')
+C = input('Insira um valor TRUE ou FALSE para C\n')
+D = input('Insira um valor TRUE ou FALSE para D\n')
+print('o resultado da expressão A > B and C or D')
+print(A > B and C or D)

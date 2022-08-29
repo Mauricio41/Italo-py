@@ -1,0 +1,5 @@
+a = float(input('insira a primeira nota do aluno :'))
+b = float(input('insira a segunda nota do aluno  :'))
+c = float(input('insira a terceira nota do aluno :'))
+media = ( a + b + c / 3)
+print(media>=7)

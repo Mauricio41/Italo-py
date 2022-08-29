@@ -1,0 +1,5 @@
+nom = input('Insira o nome: ')
+sal = float(input('Insira o salario do individuo: '))
+reaj = float(input('Insira um percentual de reajuste: '))
+novo_salario = sal*(1+(reaj/100))
+print(novo_salario) 
